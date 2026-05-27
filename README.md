@@ -5,15 +5,15 @@
 This project reads a CSV file containing numbers, processes them in Python, and generates a summary CSV file with basic statistics.
 
 It demonstrates a simple **data pipeline**:
-Input → Processing → Output
+Input --> Processing --> Output
 
 ---
 
 ## Files in this project
 
-- `numbers.csv` → input data file (list of numbers)
-- `stats.py` → main Python program
-- `summary.csv` → output file (generated after running script)
+- `numbers.csv` --> input data file (list of numbers)
+- `stats.py` --> main Python program
+- `summary.csv` --> output file (generated after running script)
 
 ---
 
