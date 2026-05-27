@@ -1,6 +1,6 @@
-# 📊 CSV Statistics Project (Beginner Python)
+# CSV Statistics Project (Beginner Python)
 
-## 🧠 Overview
+## Overview
 
 This project reads a CSV file containing numbers, processes them in Python, and generates a summary CSV file with basic statistics.
 
@@ -9,7 +9,7 @@ Input → Processing → Output
 
 ---
 
-## 📁 Files in this project
+## Files in this project
 
 - `numbers.csv` → input data file (list of numbers)
 - `stats.py` → main Python program
@@ -17,7 +17,7 @@ Input → Processing → Output
 
 ---
 
-## ⚙️ What the program does
+## What the program does
 
 1. Reads numbers from `numbers.csv`
 2. Converts them into a Python list
@@ -29,7 +29,7 @@ Input → Processing → Output
 
 ---
 
-## 🚀 How to run
+## How to run
 
 Make sure you are inside the project folder, then run:
 
